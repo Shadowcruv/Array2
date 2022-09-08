@@ -1,1 +1,2 @@
-# A BIG APRIL FOOL TO THIS GOAT THAT CLICKED THIS. From your no1 TV Hf_connekt😊
+Design a TICTACTOE Game that two users could play and catch exceptions and errors if the user inputs wrongly. The game should also decide
+if there is a winner, a draw, e.t.c
